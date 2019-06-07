@@ -1,1 +1,1 @@
-love-template
+A simple "Hello World!" template for LÖVE
